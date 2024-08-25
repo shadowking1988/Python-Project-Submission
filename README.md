@@ -33,13 +33,13 @@ IMDB Movie Scraper is a web application built with Flask that allows users to se
 ### How to run
 
 - Open cmd and navigate to the directory where you want to clone the repository. Then run: git clone https://github.com/shadowking1988/Python-Project-Submission_soumalya.git
-- Then use the command cd imdb-movie-scraper
-- To avoid conflicts with other Python projects, create a virtual environment. Then run the following command: python -m venv venv
+- Then use the command `cd imdb-movie-scraper`
+- To avoid conflicts with other Python projects, create a virtual environment. Then run the following command: `python -m venv venv`
 - This will create a virtual environment named venv in the project directory.
-- To activate the virtual environment, run: venv\Scripts\activate
-- Install all the necessary Python libraries using the requirements.txt file: pip install -r requirements.txt
+- To activate the virtual environment, run: `venv\Scripts\activate`
+- Install all the necessary Python libraries using the requirements.txt file: `pip install -r requirements.txt`
 - This will install Flask, BeautifulSoup, Requests, and other required packages.
-- With the virtual environment activated, start the Flask application by running: python app.py
+- With the virtual environment activated, start the Flask application by running: `python app.py`
 - This command will start the web server. You should see output indicating that the server is running, typically on http://127.0.0.1:5000/.
 - Open your web browser and navigate to http://127.0.0.1:5000/. You can now use the IMDB Movie Scraper by entering a movie genre and viewing the top 25 movies for that genre.
-- When you're done using the application, you can deactivate the virtual environment by simply running: deactivate
+- When you're done using the application, you can deactivate the virtual environment by simply running: `deactivate`
