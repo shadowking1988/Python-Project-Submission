@@ -24,3 +24,12 @@ IMDB Movie Scraper is a web application built with Flask that allows users to se
 - Bootstrap: A popular CSS framework for developing responsive and mobile-first web pages.
 
 ## How to use
+
+### Prerequisites
+
+- Make sure Python 3.x is installed in your system.
+- Git: If you plan to clone the repository using Git, make sure Git is installed.
+
+### How to run
+
+- 
